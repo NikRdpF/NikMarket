@@ -5,7 +5,7 @@ app = Flask(__name__)
 # In a real application, you would connect to a database here.
 # This is placeholder data for demonstration.
 products = {
-    "123": {"name": "Product A", "description": "Description of Product A"},
+    "123": {"name": "Product ghhhfA", "description": "Description of Product A"},
     "456": {"name": "Product B", "description": "Description of Product B"}
 }
 
